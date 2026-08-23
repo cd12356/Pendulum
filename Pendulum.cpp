@@ -86,7 +86,7 @@ int main() {
         float y = y_0 - L * cos(theta);
 
         // Rendering
-        glClearColor(0.1f, 0.1f, 0.1f, 1.0f); // Set background to dark grey
+        glClearColor(0.1f, 0.1f, 0.1f, 1.0f); // dark grey background
         glClear(GL_COLOR_BUFFER_BIT);
 
 
