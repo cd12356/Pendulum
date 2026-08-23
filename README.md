@@ -1,2 +1,2 @@
 # Pendulum
-C++ simulation of a 2d pendulum using OpenGL.
+C++ simulation of a 2D pendulum using OpenGL.
